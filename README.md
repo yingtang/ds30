@@ -1,3 +1,5 @@
+made it work for my own twitter account. fun exercise from Data Incubator. 
+
 # Data Science in 30 Minutes
 A quick demo illustrating a few data science techniques, and all in 30 minutes!  We're going to illustrate what you can do in 30 minutes with a little bit of programming and science.  This is an open-source contribution to the community so please add as much as you want!
 
